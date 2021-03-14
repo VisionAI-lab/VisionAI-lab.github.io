@@ -1,0 +1,4 @@
+[submodule "VisionAI-lab.github.io"]
+	path = VisionAI-lab.github.io
+	url = https://github.com/VisionAI-lab/VisionAI-lab.github.io
+	branch = master
