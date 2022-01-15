@@ -33,18 +33,50 @@
     </item>
     
     <item>
-      <title>SelfReg: Self-supervised Contrastive Regularization for Domain Generalization</title>
-      <link>https://VisionAI-lab.github.io/publication/selfreg/</link>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://VisionAI-lab.github.io/publication/selfreg/</guid>
+      <title>Towards Explainable and Advisable Model for Self-driving Cars</title>
+      <link>https://VisionAI-lab.github.io/publication/ailetters/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/ailetters/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards Explainable and Advisable Model for Self-driving Cars</title>
-      <link>https://VisionAI-lab.github.io/publication/ailetters/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://VisionAI-lab.github.io/publication/ailetters/</guid>
+      <title>A Scenario-Based Platform for Testing Autonomous Vehicle Behavior Prediction Models in Simulation</title>
+      <link>https://VisionAI-lab.github.io/publication/scenic/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/scenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio-Semantic Image Synthesis for Artistic Paintings</title>
+      <link>https://VisionAI-lab.github.io/publication/sound2image/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/sound2image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound-guided Semantic Image Manipulation</title>
+      <link>https://VisionAI-lab.github.io/publication/sound2image2/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/sound2image2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-domain curriculum learning for domain generalization</title>
+      <link>https://VisionAI-lab.github.io/publication/ictexpress/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/ictexpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SelfReg: Self-supervised Contrastive Regularization for Domain Generalization</title>
+      <link>https://VisionAI-lab.github.io/publication/selfreg/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/selfreg/</guid>
       <description></description>
     </item>
     

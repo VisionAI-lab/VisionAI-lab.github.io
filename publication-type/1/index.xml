@@ -5,12 +5,36 @@
     <link>https://VisionAI-lab.github.io/publication-type/1/</link>
       <atom:link href="https://VisionAI-lab.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://VisionAI-lab.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://VisionAI-lab.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A Scenario-Based Platform for Testing Autonomous Vehicle Behavior Prediction Models in Simulation</title>
+      <link>https://VisionAI-lab.github.io/publication/scenic/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/scenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio-Semantic Image Synthesis for Artistic Paintings</title>
+      <link>https://VisionAI-lab.github.io/publication/sound2image/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/sound2image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound-guided Semantic Image Manipulation</title>
+      <link>https://VisionAI-lab.github.io/publication/sound2image2/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/sound2image2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SelfReg: Self-supervised Contrastive Regularization for Domain Generalization</title>
