@@ -5,12 +5,20 @@
     <link>https://VisionAI-lab.github.io/publication/</link>
       <atom:link href="https://VisionAI-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://VisionAI-lab.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://VisionAI-lab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving</title>
+      <link>https://VisionAI-lab.github.io/publication/stopnet/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/stopnet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Occupancy Flow Fields for Motion Forecasting in Autonomous Driving</title>
