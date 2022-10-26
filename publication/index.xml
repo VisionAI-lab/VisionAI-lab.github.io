@@ -5,12 +5,95 @@
     <link>https://VisionAI-lab.github.io/publication/</link>
       <atom:link href="https://VisionAI-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://VisionAI-lab.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://VisionAI-lab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>An Embedding-Dynamic Approach to Self-supervised Learning</title>
+      <link>https://VisionAI-lab.github.io/publication/bmwreg_wacv/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/bmwreg_wacv/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resolving Class Imbalance Problem for LiDAR-based Object Detector by Balanced Gradients and Contextual Ground Truth Sampling</title>
+      <link>https://VisionAI-lab.github.io/publication/lidar_wacv2023/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/lidar_wacv2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORA3D Overlap Region Aware Multi-view 3D Object Detection</title>
+      <link>https://VisionAI-lab.github.io/publication/ora3d/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/ora3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-shot Visual Commonsense Immorality Prediction</title>
+      <link>https://VisionAI-lab.github.io/publication/ethics_bmvc/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/ethics_bmvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging the Domain Gap towards Generalization in Automatic Colorization</title>
+      <link>https://VisionAI-lab.github.io/publication/color_eccv2022/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/color_eccv2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grounding Visual Representations with Texts for Domain Generalization</title>
+      <link>https://VisionAI-lab.github.io/publication/dgxai_eccv2022/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/dgxai_eccv2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound-guided Semantic Video Generation</title>
+      <link>https://VisionAI-lab.github.io/publication/sound_eccv2022/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/sound_eccv2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-shot Visual Commonsense Immorality Prediction (Abstracted Version)</title>
+      <link>https://VisionAI-lab.github.io/publication/ethics_cvpr/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/ethics_cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound-Guided Semantic Image Manipulation</title>
+      <link>https://VisionAI-lab.github.io/publication/sound2image3/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/sound2image3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving</title>
