@@ -5,12 +5,28 @@
     <link>https://VisionAI-lab.github.io/post/</link>
       <atom:link href="https://VisionAI-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2024 JinkyuKim</copyright><lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://VisionAI-lab.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://VisionAI-lab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Internship (Tuebingen AI Center)</title>
+      <link>https://VisionAI-lab.github.io/post/tuebingen/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/post/tuebingen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internship (UC Berkeley)</title>
+      <link>https://VisionAI-lab.github.io/post/ucberkeley/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/post/ucberkeley/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Visiting Bay Area</title>

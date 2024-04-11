@@ -5,7 +5,7 @@
     <link>https://VisionAI-lab.github.io/</link>
       <atom:link href="https://VisionAI-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Vision &amp; AI lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2024 JinkyuKim</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://VisionAI-lab.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Vision &amp; AI lab</title>
@@ -30,6 +30,166 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Bridging the Domain Gap by Clustering-based Image-Text Graph Matching</title>
+      <link>https://VisionAI-lab.github.io/publication/2023_arxiv_dg/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2023_arxiv_dg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Temporal Cues by Predicting Objects Move for Multi-camera 3D Object Detection</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_icra_3dod/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_icra_3dod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Sound-guided Image Manipulation</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_nn_sound/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_nn_sound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EGTR: Extracting Graph from Transformer for Scene Graph Generation</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_cvpr_sgg/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_cvpr_sgg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-order Relational Reasoning for Pedestrian Trajectory Prediction</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_cvpr_highgraph/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_cvpr_highgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_arxiv_multilingual/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_arxiv_multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-based 3D Object Detection</title>
+      <link>https://VisionAI-lab.github.io/publication/cmda_aaai2024/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/cmda_aaai2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InstructBooth: Instruction-following Personalized Text-to-Image Generation</title>
+      <link>https://VisionAI-lab.github.io/publication/instructbooth_arxiv2024/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/instructbooth_arxiv2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEVMap: Map-Aware BEV Modeling for 3D Perception</title>
+      <link>https://VisionAI-lab.github.io/publication/bevmap_wacv2024/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/bevmap_wacv2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localization and Manipulation of Immoral Visual Cues for Safe Text-to-Image Generation</title>
+      <link>https://VisionAI-lab.github.io/publication/ethics_wacv2024/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/ethics_wacv2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cream: Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models</title>
+      <link>https://VisionAI-lab.github.io/publication/cream_emnlp2023/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/cream_emnlp2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distillation for High-Quality Knowledge Extraction via Explainable Oracle Approach</title>
+      <link>https://VisionAI-lab.github.io/publication/xai_bmvc2023/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/xai_bmvc2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internship (Tuebingen AI Center)</title>
+      <link>https://VisionAI-lab.github.io/post/tuebingen/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/post/tuebingen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internship (UC Berkeley)</title>
+      <link>https://VisionAI-lab.github.io/post/ucberkeley/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/post/ucberkeley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion</title>
+      <link>https://VisionAI-lab.github.io/publication/tpos_iccv2023/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/tpos_iccv2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging the Domain Gap by Clustering-based Image-Text Graph Matching</title>
+      <link>https://VisionAI-lab.github.io/publication/2023_icmlw_dg/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2023_icmlw_dg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localization and Manipulation of Immoral Visual Cues for Safe Text-to-Image Generation</title>
+      <link>https://VisionAI-lab.github.io/publication/2023_ethics_icmlw/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2023_ethics_icmlw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion</title>
+      <link>https://VisionAI-lab.github.io/publication/2023_icmlw_tpos/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2023_icmlw_tpos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RUFI: Reducing Uncertainty in Behavior Prediction with Future Information</title>
+      <link>https://VisionAI-lab.github.io/publication/rufi_cvprw2023/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/rufi_cvprw2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CloudNet: A LiDAR-Based Face Anti-Spoofing Model That Is Robust Against Light Variation</title>
+      <link>https://VisionAI-lab.github.io/publication/cloudnet_ieeeaccess2023/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/cloudnet_ieeeaccess2023/</guid>
+      <description></description>
     </item>
     
     <item>
