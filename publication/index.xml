@@ -5,7 +5,7 @@
     <link>https://VisionAI-lab.github.io/publication/</link>
       <atom:link href="https://VisionAI-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2024 JinkyuKim</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2024 JinkyuKim</copyright><lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://VisionAI-lab.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,10 +13,138 @@
     </image>
     
     <item>
+      <title>ENTP: Encoder-only Next Token Prediction</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_arxiv_entp/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_arxiv_entp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InstructBooth: Instruction-following Personalized Text-to-Image Generation</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_arxiv_instructbooth/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_arxiv_instructbooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse-to-Dense LiDAR Point Generation by LiDAR-Camera Fusion for 3D Object Detection</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_arxiv_fusion/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_arxiv_fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H-Direct: Homeostasis-aware Direct Spike Encoding for Deep Spiking Neural Networks</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_neuripsw_snn/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_neuripsw_snn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just Add $100 More, Augmenting Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_neurips_naver/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_neurips_naver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_neurips_dg/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_neurips_dg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bridging the Domain Gap by Clustering-based Image-Text Graph Matching</title>
-      <link>https://VisionAI-lab.github.io/publication/2023_arxiv_dg/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://VisionAI-lab.github.io/publication/2023_arxiv_dg/</guid>
+      <link>https://VisionAI-lab.github.io/publication/2024_icpr_dg/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_icpr_dg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-Driven Prototype Learning for Few-Shot Class-Incremental Learning</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_icpr_cil/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_icpr_cil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Should Have Been Focused: Transferring Attention-based Knowledge from Future Observations for Trajectory Prediction</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_icpr_bp/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_icpr_bp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Inductive Bias in ViT for Medical Image Diagnosis</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_bmvc_medical/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_bmvc_medical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_emnlpw_multi/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_emnlpw_multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Cross-Lingual NER Using Phonemic Representations for Low-Resource Languages</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_emnlp_multi/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_emnlp_multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_iros_dg/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_iros_dg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Motion Forecasting with Visual Relation Reasoning</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_eccv_virr/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_eccv_virr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_eccv_lrslam/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_eccv_lrslam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEVG Multi-event Video Generation with Text-to-Video Models</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_eccv_mevg/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_eccv_mevg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions</title>
+      <link>https://VisionAI-lab.github.io/publication/2024_eccv_visiontrap/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2024_eccv_visiontrap/</guid>
       <description></description>
     </item>
     
@@ -53,42 +181,26 @@
     </item>
     
     <item>
-      <title>Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding</title>
-      <link>https://VisionAI-lab.github.io/publication/2024_arxiv_multilingual/</link>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://VisionAI-lab.github.io/publication/2024_arxiv_multilingual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-based 3D Object Detection</title>
-      <link>https://VisionAI-lab.github.io/publication/cmda_aaai2024/</link>
+      <link>https://VisionAI-lab.github.io/publication/2024_aaai_cmda/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://VisionAI-lab.github.io/publication/cmda_aaai2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>InstructBooth: Instruction-following Personalized Text-to-Image Generation</title>
-      <link>https://VisionAI-lab.github.io/publication/instructbooth_arxiv2024/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://VisionAI-lab.github.io/publication/instructbooth_arxiv2024/</guid>
+      <guid>https://VisionAI-lab.github.io/publication/2024_aaai_cmda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BEVMap: Map-Aware BEV Modeling for 3D Perception</title>
-      <link>https://VisionAI-lab.github.io/publication/bevmap_wacv2024/</link>
+      <link>https://VisionAI-lab.github.io/publication/2024_wacv_bevmap/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://VisionAI-lab.github.io/publication/bevmap_wacv2024/</guid>
+      <guid>https://VisionAI-lab.github.io/publication/2024_wacv_bevmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Localization and Manipulation of Immoral Visual Cues for Safe Text-to-Image Generation</title>
-      <link>https://VisionAI-lab.github.io/publication/ethics_wacv2024/</link>
+      <link>https://VisionAI-lab.github.io/publication/2024_wacv_ethics/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://VisionAI-lab.github.io/publication/ethics_wacv2024/</guid>
+      <guid>https://VisionAI-lab.github.io/publication/2024_wacv_ethics/</guid>
       <description></description>
     </item>
     
