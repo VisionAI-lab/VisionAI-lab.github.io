@@ -5,12 +5,60 @@
     <link>https://VisionAI-lab.github.io/publication/</link>
       <atom:link href="https://VisionAI-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2024 JinkyuKim</copyright><lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2024 JinkyuKim</copyright><lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://VisionAI-lab.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://VisionAI-lab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction</title>
+      <link>https://VisionAI-lab.github.io/publication/2025_arxiv_streamocc/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2025_arxiv_streamocc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VITA-PAR: Visual and Textual Attribute Alignment with Attribute Prompting for Pedestrian Attribute Recognition</title>
+      <link>https://VisionAI-lab.github.io/publication/2025_icip_vitapar/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2025_icip_vitapar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Querying Labeled Time Series Data with Scenario Programs</title>
+      <link>https://VisionAI-lab.github.io/publication/2025_nfm_querying/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2025_nfm_querying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation</title>
+      <link>https://VisionAI-lab.github.io/publication/2025_cvpr_3d/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2025_cvpr_3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GUIDE-CoT: Goal-driven and user-informed dynamic estimation for pedestrian trajectory using chain-of-thought</title>
+      <link>https://VisionAI-lab.github.io/publication/2025_aamas_guide/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2025_aamas_guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models</title>
+      <link>https://VisionAI-lab.github.io/publication/2025_aaai_diffexp/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://VisionAI-lab.github.io/publication/2025_aaai_diffexp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ENTP: Encoder-only Next Token Prediction</title>
